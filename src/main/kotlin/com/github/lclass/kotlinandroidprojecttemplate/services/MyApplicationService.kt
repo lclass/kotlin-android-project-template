@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.lclass.kotlinandroidprojecttemplate.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.lclass.kotlinandroidprojecttemplate.MyBundle
 
 class MyApplicationService {
 
